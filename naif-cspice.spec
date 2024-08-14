@@ -15,7 +15,7 @@ Requires:          %{name}-libs{_isa} = %{version}-%{release}
 The NAIF CSPICE Toolkit, together with data obtained from the JPL Horizons 
 system, is commonly used for obtaining precise orbital data for planets, 
 moons, asteroids, comets, and spacecraft. It can provide precise positions, 
-velocities orientation, and in some cases shape information on the above 
+velocities, orientation, and in some cases shape information on the above 
 mentions orbiting bodies.
 
 The Navigation and Ancillary Information Facility (NAIF), acting under the 
