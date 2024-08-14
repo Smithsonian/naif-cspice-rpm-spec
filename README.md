@@ -1,3 +1,5 @@
+[![Copr build status](https://copr.fedorainfracloud.org/coprs/attipaci/naif-cspice/package/naif-cspice/status_image/last_build.png)](https://copr.fedorainfracloud.org/coprs/attipaci/naif-cspice/package/naif-cspice/)
+
 This repository contains `.spec` file for creating RPM packages for the NAIF CSPICE Toolkit and library.
 
 More information on the NAIF CSPICE Toolkit is available at:
