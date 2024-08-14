@@ -5,6 +5,7 @@ Summary:           The NAIF CSPICE Toolkit by NASA JPL
 License:           Apache-2.0
 URL:               https://naif.jpl.nasa.gov/naif/toolkit.html
 Source0:           https://naif.jpl.nasa.gov/pub/naif/misc/toolkit_N0067/C/PC_Linux_GCC_64bit/packages/cspice.tar.Z
+BuildRequires:     tcsh
 BuildRequires:     gcc
 BuildRequires:     sed
 Requires:          %{name}-libs{_isa} = %{version}-%{release}
